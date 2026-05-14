@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-groq
+chromadb
+openai
+groq
+sentence-transformers
